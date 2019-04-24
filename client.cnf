@@ -13,7 +13,7 @@ L                      = Seattle
 O                      = Example Co
 OU                     = techops
 CN                     = localhost
-emailAddress           = certs@example.com
+emailAddress           = certs@lab.local
 
 [ req_attributes ]
 challengePassword      = password
